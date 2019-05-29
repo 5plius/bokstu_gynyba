@@ -1,13 +1,10 @@
-# bokstu_gynyba
+Žaidimas bokštų gynybos tipo Tai turėtų buti bokštų gynybos tipo žaidimas kurio tikslas nepraleisti einančiu keliu blogiukų iki saugomo objekto (pilis, namas ar kitas pastatas), ginantis įvairiais bokšteliais. Trumpai apie žaidimą:
 
-Žaidimas bokštų gynybos tipo
-Tai turėtų buti bokštų gynybos tipo žaidimas kurio tikslas nepraleisti einančiu keliu blogiukų iki saugomo objekto (pilis, namas ar kitas pastatas), ginantis įvairiais bokšteliais.
-Trumpai apie žaidimą:
-1.	Keletas skirtingų žemėlapių.
-2.	Keletas sudėtingumo lygių.
-3.	Blogiukai tures eiti keliu, aplenkdami kliūtis (pathfinding algoritmas).
-4.	Tašku išsaugojimas kiekvienam žaidėjui.
-5.	Platus bokštelių asortimentas.
-6.	Žaidimo atnaujinimo galimybė vartotojui ją kas kart paleidus (update).
+Keletas skirtingų bokštų.
+Keletas skirtingų priešų.
+Blogiukai tures eiti keliu, aplenkdami kliūtis (pathfinding algoritmas).
+Tašku išsaugojimas kiekvienam žaidėjui.
+Skirtingi bokštų šaudymo tipai
+Versijos pakeitimai:
 
-Žaidimas bus sukurtas remiantis Unity varikliuku.
+--v01 Idėtas paprastas testavimui žemėlapis ir blokeliai dėti bokštams. --v02 Idėti pirmi bokšteliai ir priešai --v03 Idėtas bangų kontrolės skriptas --v04 Idėtos vartotojo sąsajos(meniu, pralaimėjimas, laimėjimas, pauzė) --v05 Užbaigtas paskutinis sprintas, sudėta 2/3 viso žaidimo (GameMaster valdomasis skriptas, PlayerStats, etc..)
